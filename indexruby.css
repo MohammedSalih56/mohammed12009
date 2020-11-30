@@ -1,0 +1,17 @@
+img{
+    float: right;
+    width: 250px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.img2{
+    color: rgb(0, 174, 255);
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Castoro', serif;
+}
+.img3{
+ color: black;
+ font-family: 'Castoro', serif;
+}
